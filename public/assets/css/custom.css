@@ -1,0 +1,23 @@
+.table:not(.table-sm):not(.table-md):not(.dataTable) td,
+.table:not(.table-sm):not(.table-md):not(.dataTable) th {
+	padding: 0 5px !important;
+}
+.table-midde > tbody > tr > * {
+	vertical-align: middle;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.blue {
+	color: blue;
+}
+
+.crimson {
+	color: crimson;
+}
+
+.salmon {
+	color: salmon;
+}
